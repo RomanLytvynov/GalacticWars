@@ -1,0 +1,1 @@
+This is Endgame project - our own game called 'Galactic Wars'. It's a kind of shouters, which were popular in 2000's. We have been developing this game on ubuntu during the given period and then, because of lack of time we fastly rewrite it for macOS system. That is why a huge amount of opportunities was cut. The full power of our game u can test on ubuntu system.
